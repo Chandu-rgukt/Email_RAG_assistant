@@ -4,4 +4,5 @@ langchain-community
 chromadb
 sentence-transformers
 huggingface-hub
-dotenv
+python-dotenv
+langchain-google-genai
